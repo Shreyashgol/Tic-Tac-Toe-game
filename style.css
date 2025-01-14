@@ -13,8 +13,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    
-
 }
 .game{
     height: 60vmin;

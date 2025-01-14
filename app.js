@@ -47,7 +47,7 @@ const enableBoxesBoxes = ()  => {
     for(let box of boxes){
         box.disabled = false; 
         box.innerText = "";
-    }
+    };
 };
 
 const showWinner = (winner) => {
