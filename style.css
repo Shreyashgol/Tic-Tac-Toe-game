@@ -8,6 +8,9 @@ body{
     text-align: center;
 
 }
+h1{
+    font-size: 50px;
+}
 .container{
     height: 70vh;
     display: flex;
@@ -20,7 +23,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    align-items: center;
+    align-items: center;    
     gap: 1.5vmin;
 
 }
